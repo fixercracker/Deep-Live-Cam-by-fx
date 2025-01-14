@@ -1,4 +1,6 @@
 # Deep-Live-Cam-by-fx
+![2](https://github.com/user-attachments/assets/608c27e4-9830-40d8-9737-ab7f22e851f9)
+
 ![instruction](https://github.com/user-attachments/assets/1995e442-9208-4ed0-8e00-43c3706386e1)
 
 HOW TO USE - 
@@ -15,6 +17,7 @@ Achieve high-quality face replacement with just a single image.
 
 
 https://github.com/user-attachments/assets/00635a14-a1bc-475d-917a-18c476c389b5
+
 Functional:
  Real-Time Face Swapping
  Swap faces in real-time using a single image, with instant preview capabilities.
