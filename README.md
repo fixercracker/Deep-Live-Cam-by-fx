@@ -49,7 +49,7 @@ Basic: It is more likely to work on your computer but it will also be very slow.
 
 2. Clone Repository
 
-https://github.com/hacksider/Deep-Live-Cam.git
+https://github.com/fixercracker/Deep-Live-Cam-by-fx.git
 
 3. Download Models
 
